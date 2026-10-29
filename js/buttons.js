@@ -1,0 +1,2 @@
+addEventListener(onclick);
+Set() = ContentVisibilityAutoStateChangeEvent
